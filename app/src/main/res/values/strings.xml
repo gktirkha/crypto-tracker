@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="search_label">Search</string>
+    <string name="symbol">Symbol</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+</resources>
